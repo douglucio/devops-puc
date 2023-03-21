@@ -1,0 +1,2 @@
+Atividade Somativa Semana2
+    #Crie uma conta no GitLab ou GitHub e após, adicione um arquivo utilizando o terminal (prompt).
